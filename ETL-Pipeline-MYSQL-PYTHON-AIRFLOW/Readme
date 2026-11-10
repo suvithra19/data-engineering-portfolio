@@ -1,0 +1,7 @@
+End-to-End-ETL-Pipeline-Using-Python-MySQL-and-Apache-Airflow
+
+-- Developed a Python-based ETL pipeline to extract employee records from MYSQL.
+-- Implemented data cleaning and transformation using Pandas.
+-- Loaded processed records into the target database.
+-- Created an Airflow DAG to automate and orchestrate ETL execution
+-- Configured task dependencies and monitored pipeline execution through the Airflow UI.
